@@ -2,9 +2,7 @@
 
 Welcome to the **Applied Computing Research Group (GCA)** profile on Github.
 
-## 🔍 About Us
-
-Our research lines are:
+## 🔍 Our research lines
 
 - **Integration Systems Modeling and Analysis**
 - **Data Integration and Analysis**
